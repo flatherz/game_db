@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 // Author: Zach Flathers
 // Last Date Modified: 2/10/23
 // Description: 
 
-
-=======
->>>>>>> 9b1a205e5a94c09253e8c6c7095e6e9e7b140f6f
 require('dotenv').config();
 const express = require('express'); // Import express
 const igdb = require('igdb-api-node').default;
