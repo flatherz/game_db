@@ -9,6 +9,7 @@
 The microservice response is a JSON object which can be parsed using the JSON parser of your choice. It will have the following name/value pairs.
 
 ![image](https://user-images.githubusercontent.com/122326493/218616127-15c81c45-529e-4bdf-a246-823609877051.png)
+
 Note the first id is the game id, the second id is in cover sub-heading and is the cover id that associated the cover art to the game. The url is also in the cover sub-heading and links to videogame art.
 
 ### Sequence Diagram
